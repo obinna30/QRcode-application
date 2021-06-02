@@ -1,0 +1,8 @@
+{
+  "name": "QRcode-application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KCMicheal/QRcode-application.git",
+  "author": "pharmcoder <ekwealorobinna112@gmail.com>",
+  "license": "MIT"
+}
